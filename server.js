@@ -15,6 +15,6 @@ app.get('/', (req, res) => {
 });
 
 app.listen(4000, () => {
-  console.log("Server running on port 6000");
+  console.log("Server running on http://localhost:4000");
 });
 
